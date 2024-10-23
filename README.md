@@ -2,7 +2,7 @@
 Anti-Money Laundering (AML) Detection System
 <h1 align="center">
 
-<img width="600" alt="image" src="https://github.com/nahlarmash/AML-Project/blob/main/AML.jpg">
+<img width="600" alt="image" src="https://github.com/nahlarmash/AML-Project/blob/main/Document/AML.jpg">
 </h1> 
 
 ## Overview 
