@@ -61,3 +61,5 @@ The analyzed data is visualized using interactive Power BI dashboards, These vis
 - Geographic breakdown of high-risk transactions.
 - **Outcome:** We can easily identify suspicious accounts and transaction patterns, allowing for deeper investigation.
 
+## Conclusion
+The Anti-Money Laundering (AML) Detection System is a comprehensive project designed to help financial institutions proactively identify and prevent potential money laundering activities. By simulating real-world data and implementing a centralized data warehouse, the system effectively processes large volumes of transaction information. The use of SQL queries and advanced data analysis allows for the identification of unusual transaction patterns, frequent transfers, and activities from high-risk locations.
