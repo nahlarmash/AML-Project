@@ -62,7 +62,7 @@ FROM
 JOIN DimTransaction t
 ON t.TransactionKey = f.TransactionKey
 WHERE 
-    t.TransactionLocation in ('Iran', 'Syria', 'Russia', 'North Korea', 'China')  
+    t.TransactionLocation in ('Russia', 'North Korea', 'China')  
 GROUP BY 
     f.AccountKey, t.TransactionLocation
 having 
